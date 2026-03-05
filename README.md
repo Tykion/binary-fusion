@@ -70,3 +70,10 @@ After that validation and fused_*.exe creation the code will run some sanity che
 
 At runtime the fused_*.exe will look for the .fused section inside of it, read the raw bytes, look for the app1 using MARKER1 and read it until it finds MARKER2. It will write the application to disk and execute it. Same with app2. The execution will be sequential.
 
+## Legal / Ethical Use
+
+This repository is provided for educational and research purposes only.
+Use of this code on systems without explicit authorization may be illegal.
+The author is not responsible for misuse of the materials contained in this repository.
+
+
